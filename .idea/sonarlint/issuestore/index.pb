@@ -8,3 +8,5 @@
 :
 
 .gitignore,a/5/a5cc2925ca8258af241be7e5b0381edf30266302
+[
++src/main/java/org/example/boj/BOJ_1012.java,d/8/d8377dd5f8b8e158027127f3571f5bfda7ab6585
